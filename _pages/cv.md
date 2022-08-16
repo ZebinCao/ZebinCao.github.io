@@ -18,7 +18,7 @@ Research Interests
 ======
 * Lithospheric dynamics
   * Lithospheric deformation
-  * Seimic hazards 
+  * Seismic hazards 
   * Intraplate volcanisms
 
 * Mantle convection
@@ -28,34 +28,51 @@ Research Interests
 * Evolution of rocky planets
   * Temporal evolution of volatiles
   * Earthquakes on rocky planets
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* High-performance computing in geoscience
+
+* Geophysical inversion methods
+  
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Published
+2. bbb
+1. aaa
+
+* Submitted
+
+* In preparation
+
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+6. AGU 2022
+5. GSA 2022
+4. AGU 2021
+3. AGU 2020
+2. AGU 2019
+1. AGU 2018
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* GEOL 100, Planet Earth: Fall (2019), Spring (2020, 2022)
+* GEOL 107, Physical Geology: Fall (2021)
+* GEOL 380, Environmental Geology: Spring (2022) 
+
+Programming Skills
+======
+* Computational Fluid Dynamics (CFD)
+  * Finite element method
+  * Finite volume method
+  * Finite difference method
+
+* Programming Languages
+  * C and Python (proficient)
+  * Fortran, C++, and Shell (fluent)
+
+* Parallel Programming
+  * OpenMP and MPI in C and Fortran (proficeint)
+  * Multiprocessing and MPI in Python (fluent)
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

@@ -86,7 +86,7 @@ Programming Skills
   * OpenMP and MPI in C and Fortran (proficeint)
   * Multiprocessing and MPI in Python (fluent)
 
-Service and leadership
+Service and Leadership
 ======
 * SESE Annual Reviews Organizing Committee Member (2021) 
 * Vice President of Student Union, Marine College, Zhejiang University (2014-2015)

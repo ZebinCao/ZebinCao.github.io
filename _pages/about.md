@@ -12,4 +12,4 @@ I am a PhD candidate at University of Illinois at Urbana-Champaign. Currently, m
 My essential research tool is analytical and numerical modeling. With data-oriented modling techniques, my PhD works focu on understanding lithospheric and mantle dynamics, in particular for the conterminous United States. 
 
 <br/><img src='/images/Composite_fig.png'>
-*Illustration of my PhD research work. Left panel shows an equatorial section of my global adjoint convection model at present day. Right panel shows the complex mantle structure beneath the North American Plate from my high-resolution fully coupled lithosphere-mantle model.*
+*Illustration of my PhD research work. Left panel shows an equatorial section of a global adjoint convection model at present day. Right panel shows the complex mantle structure beneath the North American Plate from a high-resolution fully coupled lithosphere-mantle model.*

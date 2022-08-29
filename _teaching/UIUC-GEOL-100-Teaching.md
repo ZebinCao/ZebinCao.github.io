@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UIUC-GEOL-100-Teaching
 venue: "University of Illinois at Urbana-Champaign, Department of Geology"
+date: 2019 - 2022
 ---
 
 3 semesters of teaching, as a lab instractor.

@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Geology, University of Illinois at Urbana-Champaign (UIUC), 2023 (expected)
-  * Thesis tile: Understanding lithospheric and mantle deformation with data-assimilated geodynamic models  
+  * Dissertaion tile: Understanding lithospheric and mantle deformation with data-assimilated geodynamic models  
   * Advisory committee: Jay Bass, Lijun Liu (chair), Craig Lundstrom, Patricia Gregg
 
 * B.S. in Marine Science, Zhejiang University, 2017

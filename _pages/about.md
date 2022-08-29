@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 #About Me
+
+<br/><img src='/images/Composite_fig.png'>

@@ -55,15 +55,16 @@ Publications
 
 Presentations
 ======
-8. **Cao, Z.**, & Liu, L. (2022, Accepted) “Varying Lithospheric Thickness Controls Mantle and Crustal Deformation in Western U.S.”, GSA Connect Meeting.
-7. Peng, L., Liu, L., Wang, Y., **Cao, Z.**, & Liu, L. (2021) “Lithosphere Delamination and Relamination Reconcile Craton Longevity and Temporal Variations”, AGU Fall Meeting.
-6. Li, Y., Peng, D., **Cao, Z.**, & Liu, L. (2021) “Continental-scale Converging Mantle Flow beneath Eurasia and America, from model to observation”, AGU Fall Meeting.
-5. **Cao, Z.**, & Liu, L. (2021) “Western U.S. Crustal Stress and Relative Motion Controlled by Lithosphere-Asthenosphere Interaction”, AGU Fall Meeting.
-4. **Cao, Z.**, Liu, L., & Wang, Y. (2020) “Exploring Upper-Mantle Dynamics Using Global Adjoint Convection Models”, AGU Fall Meeting.
-3. Liu, L., Zhou, Q., & **Cao, Z.** (2019) “Asthenosphere-lithosphere interaction shapes the geology of the western United States”, AGU Fall Meeting.
-2. **Cao, Z.**, & Liu, L. (2019). “Modeling Lithospheric Stress and Deformation of the WUS”, AGU Fall Meeting.
-1. **Cao, Z.**, Liu, L., & Zhou, Q. (2018) “Modeling Lithospheric Stress on Continental U.S.”, AGU Fall Meeting.
-  
+0. **Cao, Z.**, & Liu, L. (2022, Accepted) “Varying Lithospheric Thickness Controls Mantle and Crustal Deformation in Western U.S.”, GSA Connect Meeting.
+0. Peng, L., Liu, L., Wang, Y., **Cao, Z.**, & Liu, L. (2021) “Lithosphere Delamination and Relamination Reconcile Craton Longevity and Temporal Variations”, AGU Fall Meeting.
+0. Li, Y., Peng, D., **Cao, Z.**, & Liu, L. (2021) “Continental-scale Converging Mantle Flow beneath Eurasia and America, from model to observation”, AGU Fall Meeting.
+0. **Cao, Z.**, & Liu, L. (2021) “Western U.S. Crustal Stress and Relative Motion Controlled by Lithosphere-Asthenosphere Interaction”, AGU Fall Meeting.
+0. **Cao, Z.**, Liu, L., & Wang, Y. (2020) “Exploring Upper-Mantle Dynamics Using Global Adjoint Convection Models”, AGU Fall Meeting.
+0. Liu, L., Zhou, Q., & **Cao, Z.** (2019) “Asthenosphere-lithosphere interaction shapes the geology of the western United States”, AGU Fall Meeting.
+0. **Cao, Z.**, & Liu, L. (2019). “Modeling Lithospheric Stress and Deformation of the WUS”, AGU Fall Meeting.
+0. **Cao, Z.**, Liu, L., & Zhou, Q. (2018) “Modeling Lithospheric Stress on Continental U.S.”, AGU Fall Meeting.
+{: reversed="reversed"}
+
 Teaching
 ======
 * GEOL 100, Planet Earth: Fall (2019), Spring (2020, 2022)

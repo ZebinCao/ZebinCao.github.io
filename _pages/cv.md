@@ -40,8 +40,9 @@ Research Interests
 Publications
 ======
 * Published
-2. **Cao, Z.**, & Liu, L. (2021). “Origin of Three‐Dimensional Crustal Stress Over the Conterminous United States”. Journal of Geophysical Research: Solid Earth, 126(11), e2021JB022137.
-1. Liu, L., Peng, D., Liu, L., Chen, L., Li, S., Wang, Y., **Cao, Z.**, & Feng, M. (2021). “East Asia lithosphere evolution dictated by multistage Mesozoic flat-slab subduction”. Earth-Science Reviews, 217, 103621.
+0. **Cao, Z.**, & Liu, L. (2021). “Origin of Three‐Dimensional Crustal Stress Over the Conterminous United States”. Journal of Geophysical Research: Solid Earth, 126(11), e2021JB022137.
+0. Liu, L., Peng, D., Liu, L., Chen, L., Li, S., Wang, Y., **Cao, Z.**, & Feng, M. (2021). “East Asia lithosphere evolution dictated by multistage Mesozoic flat-slab subduction”. Earth-Science Reviews, 217, 103621.
+{: reversed="reversed"}
 
 * Submitted
 1. Zhang, L., **Cao, Z.**, Zartman, R., Li, C., Sun, S., Liu, L., & Sun, W. “Plume-plume Interaction at Hawaii”. (submitted to Nature Geoscience)

@@ -11,6 +11,7 @@ Lithospheric dynamics
 ======
 
 
+<br/><img src='/images/WUS.png'>
 
 Plume dynamics
 ======

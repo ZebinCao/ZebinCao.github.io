@@ -27,7 +27,7 @@ Research Interests
 
 * Mantle convection
   * Plume dynamics
-  * Mantle dynamics in exoplanets
+  * Mantle dynamics in Earth and exoplanets
 
 * Evolution of rocky planets
   * Temporal evolution of volatiles

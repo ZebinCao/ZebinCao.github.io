@@ -14,9 +14,9 @@ The origins of intraplate deformation and volcanism have been debated for decade
 
 <p align="center">
 <br/><img src="/images/WUS.png" width="600"/>
-</p>
 <span style="font-family:Times; font-size:12pt;"> **Crustal deformation, intraplate volcanoes, slab surface, lithosphere-asthenosphere boundary (LAB), and hot asthenospheric materials in the WUS.**
-***(a)** GPS measured crustal motion (UNAVCO) and earthquakes during the past 40 years (from USGS, with magnitudes larger than 3) overlying the LAB in the WUS. The size of dots present the magnitudes of earthquakes. **(b)** Slab surface, intraplate volcanoes, and hot asthenospheric materials overlying the LAB in the WUS. Colored contours represent the depth of slab surface. Red triangles indicate the locations of volcanoes during the past 2 million years (NAVDAT). The orange isosurace with red outlines indicate hot asthenospheric material (with > + 30˚C than the ambient mantle) at 150 km.* </span>
+***(a)** GPS measured crustal motion (UNAVCO) and earthquakes during the past 40 years (from USGS, with magnitudes larger than 3) overlying the LAB in the WUS. The size of dots present the magnitudes of earthquakes. **(b)** Slab surface, intraplate volcanoes, and hot asthenospheric materials overlying the LAB in the WUS. Colored contours represent the depth of slab surface. Red triangles indicate the locations of volcanoes during the past 2 million years (NAVDAT). The orange isosurface with red outlines indicate hot asthenospheric material (> + 30˚C than the ambient mantle) at 150 km.* </span>
+</p>
 
 Plume dynamics
 ======
@@ -25,9 +25,8 @@ Recent volcanoes in Hawaii could be divided into two distinct chains based on le
 
 <p align="center">
 <br/><img src="/images/Hawaii.png" width="400"/>
-</p>
-
 <span style="font-family:Times; font-size:12pt;"> *The recent double volcanic chains in Hawaii. (Modified from Jones et al., 2017, Nature)*
+</p>
 
 Subduction initiation
 ======
@@ -36,3 +35,5 @@ Subduction initiation (SI) along passive margins is a critical stage in the supe
 
 Global adjoint convection model
 ======
+
+The dynamics of slow seismic anomaly in the upper mantle is a key component to understanding the mantle convection system. However, due to its ill-constrained dynamic properties and unknown initial location, the temporal evolution of slow seismic anomaly is hard to reproduce in forward modeling approaches. The adjoint method provides a chance to model the evolution in an iterative way. We are developing a global adjoint convection model to investigate the dynamic properties and temporal evolution of slow seismic anomaly in the upper mantle.

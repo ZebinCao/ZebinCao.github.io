@@ -10,6 +10,8 @@ I am a Ph.D. candidate at the University of Illinois at Urbana-Champaign. My mai
 
 My essential research tool is analytical and numerical modeling. With data-assimilated modeling techniques, my Ph.D. works focus on understanding lithospheric and mantle dynamics, particularly for the conterminous United States. My fully coupled mantle-lithosphere model provides a quantitative estimation of the driving forces for intraplate seismicity in the western U.S. and sheds light on the origin of intraplate volcanism in this region.
 
+<p align="center">
 <br/><img src='/images/Composite_fig.png'>
+</p>
 
 <span style="font-family:Times; font-size:12pt;">*Figures showing global and regional high-resolution 3D models. **(a)** An equatorial slice of global adjoint convection model. **(b)** a 3D slice of high-resolution, fully coupled lithosphere-mantle model for the North America Plate.*</span>

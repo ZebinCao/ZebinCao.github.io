@@ -33,6 +33,11 @@ Subduction initiation
 
 Subduction initiation (SI) along passive margins is a critical stage in the supercontinent cycle, during which the total length of convergent margins increased sharply during supercontinent breakup. However, the mechanism of SI at passive margins remains debated for decades. Recent studies suggest that the continental lithospheric mantle (CLM) may consist of a buoyant upper layer and a dense lower layer, a density configuration that could trigger delamination of the dense lower CLM during separation of a supercontinent. We are developing high-resolution 2D geodynamic models with viscoelastoplatic rheology to investigate SI triggered by delamination and the associated geological processes. 
 
+<p align="center">
+<br/><img src="/images/SI.png" width="500"/>
+</p>
+<span style="font-family:Times; font-size:12pt;"> *General classes and subclasses of how subduction zones form. (Stern, 2004, EPSL)*
+
 Global adjoint convection model
 ======
 

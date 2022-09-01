@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate at University of Illinois at Urbana-Champaign. Currently, my main ongoing research areas are 1) lithospheric dynamics of the North American Plate, 2) subduction initiation during supercontinent cycles, and 3) global adjoint convection model. I am also working with collaborators from CIDER 2022 on planetary science problems, such as hydrogen distribution history within terrestial planets and triggers for Marsquakes.
 
-My essential research tool is analytical and numerical modeling. With data-assimilated modling techniques, my PhD works focus on understanding lithospheric and mantle dynamics, in particular for the conterminous United States.
+My essential research tool is analytical and numerical modeling. With data-assimilated modling techniques, my PhD works focus on understanding lithospheric and mantle dynamics, in particular for the conterminous United States. My fully coupled mantle-lithosphere model provides a quantitative estimation of the driving forces for intraplate seismicity in the western U.S., and sheds lights on the origin of intraplate volcanism in this region.
 
 <br/><img src='/images/Composite_fig.png'>
 

@@ -10,9 +10,9 @@ author_profile: true
 Lithospheric dynamics
 ======
 
-The origins of intraplate deformation and volcanism far away from plate boundaries have been debated for decades. In the tectonically active western U.S., 
+The origins of intraplate deformation and volcanism have been debated for decades. For example, the tectonically active western U.S. has widespread crustal motion and clustered seismicity and volcanism.
 
-<br/><img src='/images/WUS.png' width="400">
+<br/><img src='/images/WUS.png' width="800"/>
 
 Plume dynamics
 ======

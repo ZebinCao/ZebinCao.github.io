@@ -16,10 +16,8 @@ The origins of intraplate deformation and volcanism have been debated for decade
 <br/><img src="/images/WUS.png" width="600"/>
 </p>
 
-<p style="text-align: center;">Centered text</p>
 <span style="font-family:Times; font-size:12pt;"> **Crustal deformation, intraplate volcanoes, slab surface, lithosphere-asthenosphere boundary (LAB), and hot asthenospheric materials in the WUS.**
 ***(a)** GPS measured crustal motion (UNAVCO) and earthquakes during the past 40 years (from USGS, with magnitudes larger than 3) overlying the LAB in the WUS. The size of dots present the magnitudes of earthquakes. **(b)** Slab surface, intraplate volcanoes, and hot asthenospheric materials overlying the LAB in the WUS. Colored contours represent the depth of slab surface. Red triangles indicate the locations of volcanoes during the past 2 million years (NAVDAT). The orange isosurface with red outlines indicate hot asthenospheric material (> + 30˚C than the ambient mantle) at 150 km.* </span>
-</p>
 
 Plume dynamics
 ======
@@ -45,3 +43,9 @@ Global adjoint convection model
 ======
 
 The dynamics of slow seismic anomaly in the upper mantle is a key component to understanding the mantle convection system. However, due to its ill-constrained dynamic properties and unknown initial location, the temporal evolution of slow seismic anomaly is hard to reproduce in forward modeling approaches. The adjoint method provides a chance to model the evolution in an iterative way. We are developing a global adjoint convection model to investigate the dynamic properties and temporal evolution of slow seismic anomaly in the upper mantle.
+
+<p align="center">
+<br/><img src="/images/UM.png" width="900"/>
+</p>
+<span style="font-family:Times; font-size:12pt;"> *Shear wave velocity purterbations at 200km from **(a)** TX2019, **(b)** S40RTS, and **(c)** SEMUCB-WM1.*
+

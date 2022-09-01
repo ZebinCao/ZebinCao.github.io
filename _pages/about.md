@@ -14,6 +14,4 @@ My essential research tool is analytical and numerical modeling. With data-assim
 <br/><img src='/images/Composite_fig.png'>
 </p>
 
-<p style="text-align: center;">
 <span style="font-family:Times; font-size:12pt;">*Figures showing global and regional high-resolution 3D models. **(a)** An equatorial slice of global adjoint convection model. **(b)** a 3D slice of high-resolution, fully coupled lithosphere-mantle model for the North America Plate.*</span>
-</p>

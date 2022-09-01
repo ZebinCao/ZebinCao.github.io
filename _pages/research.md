@@ -14,8 +14,8 @@ The origins of intraplate deformation and volcanism have been debated for decade
 
 <br/><img src='/images/WUS.png' width="600"/>
 
-**Crustal deformation patterns, intraplate volcanoes, slab surface, lithosphere-asthenosphere boundary (LAB), and hot asthenospheric materials in the WUS.**
-***(a)** GPS measured crustal motion (UNAVCO) and earthquakes during the past 40 years (from USGS, with magnitudes larger than 3) overlying the LAB in the WUS. The size of dots present the magnitudes of earthquakes. **(b)** Slab surface, intraplate volcanoes, and hot asthenospheric materials overlying the LAB in the WUS. Colored contours represent the depth of slab surface. Red triangles indicate the locations of volcanoes during the past 2 million years (NAVDAT). The orange isosurace with red outlines indicate hot asthenospheric material (with > + 30˚C than the ambient mantle) at 150 km.*
+<span style="font-family:Times; font-size:14pt;">*Crustal deformation patterns, intraplate volcanoes, slab surface, lithosphere-asthenosphere boundary (LAB), and hot asthenospheric materials in the WUS.**
+***(a)** GPS measured crustal motion (UNAVCO) and earthquakes during the past 40 years (from USGS, with magnitudes larger than 3) overlying the LAB in the WUS. The size of dots present the magnitudes of earthquakes. **(b)** Slab surface, intraplate volcanoes, and hot asthenospheric materials overlying the LAB in the WUS. Colored contours represent the depth of slab surface. Red triangles indicate the locations of volcanoes during the past 2 million years (NAVDAT). The orange isosurace with red outlines indicate hot asthenospheric material (with > + 30˚C than the ambient mantle) at 150 km.* </span>
 
 Plume dynamics
 ======

@@ -47,5 +47,5 @@ The dynamics of slow seismic anomaly in the upper mantle is a key component to u
 <p align="center">
 <br/><img src="/images/UM.png" width="900"/>
 </p>
-<span style="font-family:Times; font-size:12pt;"> *Shear wave velocity purterbations at 200km from **(a)** TX2019, **(b)** S40RTS, and **(c)** SEMUCB-WM1.*
+<span style="font-family:Times; font-size:12pt;"> *Shear-wave velocity purterbations at 200km from **(a)** TX2019, **(b)** S40RTS, and **(c)** SEMUCB-WM1. All seismic tomography models show broad slow seismic anomaly, whose dynamics is uncertain.*
 

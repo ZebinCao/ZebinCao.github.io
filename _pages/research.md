@@ -42,10 +42,10 @@ Subduction initiation (SI) along passive margins is a critical stage in the supe
 Global adjoint convection model
 ======
 
-The dynamics of slow seismic anomaly in the upper mantle is a key component to understanding the mantle convection system. However, due to its ill-constrained dynamic properties and unknown initial location, the temporal evolution of slow seismic anomaly is hard to reproduce in forward modeling approaches. The adjoint method provides a chance to model the evolution in an iterative way. We are developing a global adjoint convection model to investigate the dynamic properties and temporal evolution of slow seismic anomaly in the upper mantle.
+The dynamics of slow seismic anomalies in the upper mantle is a key component to understanding the mantle convection system. However, due to its ill-constrained dynamic properties and unknown initial location, the temporal evolution of slow seismic anomalies is hard to reproduce in forward modeling approaches. The adjoint method provides a chance to model the evolution in an iterative way. We are developing a global adjoint convection model to investigate the dynamic properties and temporal evolution of slow seismic anomalies in the upper mantle.
 
 <p align="center">
 <br/><img src="/images/UM.png" width="900"/>
 </p>
-<span style="font-family:Times; font-size:12pt;"> *Shear-wave velocity purterbations at 200 km from **(a)** TX2019, **(b)** S40RTS, and **(c)** SEMUCB-WM1. All seismic tomography models show broad slow seismic anomaly, whose dynamics is uncertain.*
+<span style="font-family:Times; font-size:12pt;"> *Shear-wave velocity purterbations at 200 km from **(a)** TX2019, **(b)** S40RTS, and **(c)** SEMUCB-WM1. All seismic tomography models show broad slow seismic anomalies, whose dynamics is uncertain.*
 

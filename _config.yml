@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zebin Cao"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate in Geology\n Geodynamicist"
   location         : "IL, USA"
   employer         :

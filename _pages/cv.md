@@ -15,7 +15,7 @@ Education
   * Dissertaion tile: Understanding lithospheric and mantle dynamics with data-assimilated geodynamic models  
   * Advisory committee: Jay Bass, Lijun Liu (chair), Craig Lundstrom, Patricia Gregg
 
-* B.S. in Marine Science, Zhejiang University, 2017
+* B.Sc. in Marine Science, Zhejiang University, 2017
   * With concentration in marine geology and geophysics
 
 Research Interests

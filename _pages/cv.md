@@ -45,13 +45,14 @@ Publications
 {: reversed="reversed"}
 
 * Submitted
-0. Zhang, L., **Cao, Z.**, Zartman, R., Li, C., Sun, S., Liu, L., & Sun, W. “Plume-plume Interaction at Hawaii”. (submitted to Nature Geoscience)
+0. Zhang, L., **Cao, Z.**, Zartman, R., Li, C., Sun, S., Liu, L., & Sun, W. “Plume-plume Interaction at Hawaii”. (under review, Science Bulletin)
 0. Liu, Y., Peng, D., Li, Y., **Cao, Z.**, Liu, L. “Global Back-arc Extension due to Trench-parallel Mid-ocean Ridge Subduction”. (in revision, EPSL)
+0. **Cao, Z.**, & Liu, L. “Lithosphere-Asthenosphere Interaction Controls Crustal Deformation in Western U.S.”. (submitted)
 
 * In preparation
 0. Wang, Y., Peng, L., **Cao, Z.**, Liu, L., Chen, L., & Lundstrom, C. “Secular Craton Evolution due to Cyclic Deformation of Its Dense Mantle Lithosphere”. 
-0. **Cao, Z.**, & Liu, L. “Lithosphere-Asthenosphere Interaction Controls Crustal Deformation in Western U.S.”. 
 0. **Cao, Z.**, & Liu, L. “Delamination Triggers Subduction Initiation During Supercontinent Cycles”. 
+0. Liu, L., **Cao, Z.**, Xu, Y., Morgn, J. "A Long-Lived Convergence System Driven by Upper Mantle Temperature Anomalies".
 
 Presentations
 ======
